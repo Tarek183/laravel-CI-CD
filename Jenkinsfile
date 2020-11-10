@@ -1,7 +1,5 @@
 pipeline {
-   agent {
-        label "iheb"
-    }
+  any agent 
  stages {
         stage("Build") {
             steps {
