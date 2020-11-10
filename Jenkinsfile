@@ -6,7 +6,7 @@ pipeline {
                 bat 'php --version'
                 bat 'composer install'
                 bat 'composer --version'
-                bat 'cp .env.example .env'
+                bat 'copy .env.example .env'
                 bat 'php artisan key:generate'
             }
         }
