@@ -11,7 +11,7 @@ Intruksi manual Ketikkan: (Clone dulu repisitory ini dengan cara: git clone http
 4. php artisan migrate (Jangan lupa set up database)
 5. php artisan db:seed
 
-ScreenShot Aplikasi
+
 
 ![SS](https://github.com/crusherblack/Laravel-POS-Free/blob/master/screenshot/1.jpg)
 
